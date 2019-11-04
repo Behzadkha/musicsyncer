@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">Music Syncer</string>
+    <string name="desc">Image</string>
+    <string name="restart">Restart</string>
+    <string name="Waiting">Waiting</string>
+    <string name="playing">Playing</string>
+    <string name="choose">Choose</string>
+    <string name="ConnectionStatus">Connection Status</string>
+    <string name="status">Status:</string>
+    <string name="trye">Try again if music is not synced.</string>
+    <string name="devices">Both device need to choose the same music.</string>
+    <string name="tryagain">Try Again</string>
+    <string name="slow">Slow internet connection causes desync.</string>
+
+</resources>
